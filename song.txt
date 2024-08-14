@@ -6,9 +6,4 @@ I am again adding these three lines in the code
 hahahaha
 hahahaha
 
-<<<<<<< HEAD
 Trying to check the status of the git revert
-=======
-hahahah successfully did the git reset and then git checkout!! it was fun
- 
->>>>>>> parent of 7e4c98a (Revert "First reset it and then commiting it again")
