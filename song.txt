@@ -5,6 +5,3 @@ blablablabalbala
 I am again adding these three lines in the code
 hahahaha
 hahahaha
-
-hahahah successfully did the git reset and then git checkout!! it was fun
- 
